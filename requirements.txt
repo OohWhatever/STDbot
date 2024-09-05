@@ -1,0 +1,5 @@
+CairoSVG==2.7.1
+discord.py==2.4.0
+Pillow==10.4.0
+Requests==2.32.3
+  
